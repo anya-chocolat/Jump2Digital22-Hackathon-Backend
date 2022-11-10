@@ -2,10 +2,10 @@
 
 ### #Jump2Digital22 Hackathon Backend challenge
 
+> Una API REST construída con Spring Boot, Maven, JPA hibernate and SQL
+
 [![CodeFactor](https://www.codefactor.io/repository/github/anya-chocolat/jump2digital22-hackathon-backend/badge)](https://www.codefactor.io/repository/github/anya-chocolat/jump2digital22-hackathon-backend) <br>
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=anya-chocolat_Jump2Digital22-Hackathon-Backend&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=anya-chocolat_Jump2Digital22-Hackathon-Backend)
-
-> Una API REST construída con Spring Boot, Maven, JPA hibernate and SQL
 
 ### Usage
 
