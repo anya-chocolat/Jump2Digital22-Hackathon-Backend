@@ -35,14 +35,14 @@ Los endpoints están definidos en la clase CompanyController y utilizan los mét
 
 También incluye los tests para asegurar la funcionalidad correcta de los endpoints.
 
-### Tecnologías
+### Technologies
 
 - [Java 17](https://docs.oracle.com/en/java/javase/17/)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Maven](https://maven.apache.org/)
 - [JPQL](https://docs.oracle.com/javaee/6/tutorial/doc/bnbtg.html)
 
-### Herramientas
+### Tools
 
 - [SpringBoot Initializr](https://start.spring.io/) para generar un proyecto de Spring con Maven
 - [Postman](https://www.getpostman.com/) para realizar peticiones (y ver las respuestas) a la aplicación
